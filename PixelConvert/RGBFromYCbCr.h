@@ -34,7 +34,7 @@
 
 #include "../RGB/RGBPixel.h"
 #include "../YCbCr/YCbCrPixel.h"
-#include "../../Generic/Geometry/Matrix.h"
+#include <Enseed/Generic/Geometry/Matrix.h>
 
 
 class PixelConvertRGBFromYCbCr_Float
