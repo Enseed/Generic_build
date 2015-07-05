@@ -53,7 +53,7 @@
 //==============================================================================
 #include <iterator>
 #include "TypeInfo.h"
-#include <Generic/Devel/Debug.h>
+#include <Enseed/Generic/Devel/Debug.h>
 
 #ifdef ITL_NAMESPACE
 namespace ITL_NAMESPACE {

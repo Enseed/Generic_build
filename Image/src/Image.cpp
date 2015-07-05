@@ -21,7 +21,7 @@
 #include "../Image.h"
 #include "ImageProxy.h"
 
-#include "../../../Generic/Devel/Debug.h"
+#include <Enseed/Generic/Devel/Debug.h>
 #include "../../RGB/RGBPixel.h"
 #include "../../YCbCr/YCbCrPixel.h"
 #include "../../PixMap/PixMap.h"

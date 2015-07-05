@@ -1,0 +1,6 @@
+[submodule "libs/Enseed/Generic/Devel"]
+	path = libs/Enseed/Generic/Devel
+	url = https://github.com/Enseed/GenericDevel.git
+[submodule "libs/Enseed/Generic/Base"]
+	path = libs/Enseed/Generic/Base
+	url = https://github.com/Enseed/GenericBase.git
