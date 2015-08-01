@@ -1,1 +1,0 @@
-/* We need an empty file just to get MSDev to build the lib... */

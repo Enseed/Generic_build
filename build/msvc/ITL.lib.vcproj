@@ -215,343 +215,343 @@
 			Filter="*.h"
 			>
 			<File
-				RelativePath="..\PixelConvert\Alpha.declare.h"
+				RelativePath="..\..\PixelConvert\Alpha.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Alpha.h"
+				RelativePath="..\..\PixelConvert\Alpha.h"
 				>
 			</File>
 			<File
-				RelativePath="..\RGB\AlphaPixelDefinition.h"
+				RelativePath="..\..\RGB\AlphaPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Utils\AlphaPixelDefinition.h"
+				RelativePath="..\..\Utils\AlphaPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Utils\BitIO.h"
+				RelativePath="..\..\Utils\BitIO.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Black.declare.h"
+				RelativePath="..\..\PixelConvert\Black.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Black.h"
+				RelativePath="..\..\PixelConvert\Black.h"
 				>
 			</File>
 			<File
-				RelativePath="..\CMY\BlackPixelDefinition.h"
+				RelativePath="..\..\CMY\BlackPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Blue.declare.h"
+				RelativePath="..\..\PixelConvert\Blue.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Blue.h"
+				RelativePath="..\..\PixelConvert\Blue.h"
 				>
 			</File>
 			<File
-				RelativePath="..\RGB\BluePixelDefinition.h"
+				RelativePath="..\..\RGB\BluePixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\ChromaBlue.declare.h"
+				RelativePath="..\..\PixelConvert\ChromaBlue.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\ChromaBlue.h"
+				RelativePath="..\..\PixelConvert\ChromaBlue.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\ChromaBluePixelDefinition.h"
+				RelativePath="..\..\YCbCr\ChromaBluePixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\ChromaRed.declare.h"
+				RelativePath="..\..\PixelConvert\ChromaRed.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\ChromaRed.h"
+				RelativePath="..\..\PixelConvert\ChromaRed.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\ChromaRedPixelDefinition.h"
+				RelativePath="..\..\YCbCr\ChromaRedPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\CMYKFromRGB.h"
+				RelativePath="..\..\PixelConvert\CMYKFromRGB.h"
 				>
 			</File>
 			<File
-				RelativePath="..\CMY\CMYKPixel.h"
+				RelativePath="..\..\CMY\CMYKPixel.h"
 				>
 			</File>
 			<File
-				RelativePath="..\CMY\CMYKPixelDefinition.h"
+				RelativePath="..\..\CMY\CMYKPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\CMY\CMYPixel.h"
+				RelativePath="..\..\CMY\CMYPixel.h"
 				>
 			</File>
 			<File
-				RelativePath="..\CMY\CMYPixelDefinition.h"
+				RelativePath="..\..\CMY\CMYPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Storage\ColorSpace.h"
+				RelativePath="..\..\Storage\ColorSpace.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Storage\ComponentArray.h"
+				RelativePath="..\..\Storage\ComponentArray.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Storage\ComponentModel.h"
+				RelativePath="..\..\Storage\ComponentModel.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Storage\ComponentRange.h"
+				RelativePath="..\..\Storage\ComponentRange.h"
 				>
 			</File>
 			<File
-				RelativePath="..\RGB\ComponentRGBPacked.h"
+				RelativePath="..\..\RGB\ComponentRGBPacked.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Storage\ComponentSpecification.h"
+				RelativePath="..\..\Storage\ComponentSpecification.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Cyan.declare.h"
+				RelativePath="..\..\PixelConvert\Cyan.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Cyan.h"
+				RelativePath="..\..\PixelConvert\Cyan.h"
 				>
 			</File>
 			<File
-				RelativePath="..\CMY\CyanPixelDefinition.h"
+				RelativePath="..\..\CMY\CyanPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Green.declare.h"
+				RelativePath="..\..\PixelConvert\Green.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Green.h"
+				RelativePath="..\..\PixelConvert\Green.h"
 				>
 			</File>
 			<File
-				RelativePath="..\RGB\GreenPixelDefinition.h"
+				RelativePath="..\..\RGB\GreenPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Image\Image.h"
+				RelativePath="..\..\Image\Image.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Image\Image.inline.h"
+				RelativePath="..\..\Image\Image.inline.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Utils\Iterator.h"
+				RelativePath="..\..\Utils\Iterator.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Luminance.declare.h"
+				RelativePath="..\..\PixelConvert\Luminance.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Luminance.h"
+				RelativePath="..\..\PixelConvert\Luminance.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\LuminancePixelDefinition.h"
+				RelativePath="..\..\YCbCr\LuminancePixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Magenta.declare.h"
+				RelativePath="..\..\PixelConvert\Magenta.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Magenta.h"
+				RelativePath="..\..\PixelConvert\Magenta.h"
 				>
 			</File>
 			<File
-				RelativePath="..\CMY\MagentaPixelDefinition.h"
+				RelativePath="..\..\CMY\MagentaPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelBase.h"
+				RelativePath="..\..\PixelBase.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\PixelConverter.h"
+				RelativePath="..\..\PixelConvert\PixelConverter.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixelIterator.h"
+				RelativePath="..\..\PixMap\PixelIterator.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Storage\PixelManipulation.h"
+				RelativePath="..\..\Storage\PixelManipulation.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixelRef.h"
+				RelativePath="..\..\PixMap\PixelRef.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMap.declare.h"
+				RelativePath="..\..\PixMap\PixMap.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMap.h"
+				RelativePath="..\..\PixMap\PixMap.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapComposer.h"
+				RelativePath="..\..\PixMap\PixMapComposer.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapComposer1In1Out.h"
+				RelativePath="..\..\PixMap\PixMapComposer1In1Out.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapComposer2In1Out.h"
+				RelativePath="..\..\PixMap\PixMapComposer2In1Out.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapManip.h"
+				RelativePath="..\..\PixMap\PixMapManip.h"
 				>
 			</File>
 			<File
-				RelativePath="..\src\PixMapOld.h"
+				RelativePath="..\..\src\PixMapOld.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapOrigin.h"
+				RelativePath="..\..\PixMap\PixMapOrigin.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapRef.declare.h"
+				RelativePath="..\..\PixMap\PixMapRef.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapRef.h"
+				RelativePath="..\..\PixMap\PixMapRef.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapResolution.h"
+				RelativePath="..\..\PixMap\PixMapResolution.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixMapSurface.h"
+				RelativePath="..\..\PixMap\PixMapSurface.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixPlane.h"
+				RelativePath="..\..\PixMap\PixPlane.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixRowIterator.h"
+				RelativePath="..\..\PixMap\PixRowIterator.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixMap\PixRowRef.h"
+				RelativePath="..\..\PixMap\PixRowRef.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Utils\PtrManip.h"
+				RelativePath="..\..\Utils\PtrManip.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Range.h"
+				RelativePath="..\..\PixelConvert\Range.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Red.declare.h"
+				RelativePath="..\..\PixelConvert\Red.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Red.h"
+				RelativePath="..\..\PixelConvert\Red.h"
 				>
 			</File>
 			<File
-				RelativePath="..\RGB\RedPixelDefinition.h"
+				RelativePath="..\..\RGB\RedPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\RGBFromCMYK.h"
+				RelativePath="..\..\PixelConvert\RGBFromCMYK.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\RGBFromYCbCr.h"
+				RelativePath="..\..\PixelConvert\RGBFromYCbCr.h"
 				>
 			</File>
 			<File
-				RelativePath="..\RGB\RGBPixel.h"
+				RelativePath="..\..\RGB\RGBPixel.h"
 				>
 			</File>
 			<File
-				RelativePath="..\RGB\RGBPixelDefinition.h"
+				RelativePath="..\..\RGB\RGBPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\RGB\RGBPixelRefDefinition.h"
+				RelativePath="..\..\RGB\RGBPixelRefDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\Utils\TypeInfo.h"
+				RelativePath="..\..\Utils\TypeInfo.h"
 				>
 			</File>
 			<File
-				RelativePath="..\XYZ\XYZPixel.h"
+				RelativePath="..\..\XYZ\XYZPixel.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\YCbCr422Pixel.h"
+				RelativePath="..\..\YCbCr\YCbCr422Pixel.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\YCbCr422PixelDefinition.h"
+				RelativePath="..\..\YCbCr\YCbCr422PixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\YCbCr422PixelRefDefinition.h"
+				RelativePath="..\..\YCbCr\YCbCr422PixelRefDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\YCbCrFromRGB.h"
+				RelativePath="..\..\PixelConvert\YCbCrFromRGB.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\YCbCrOrdering.h"
+				RelativePath="..\..\YCbCr\YCbCrOrdering.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\YCbCrPixel.h"
+				RelativePath="..\..\YCbCr\YCbCrPixel.h"
 				>
 			</File>
 			<File
-				RelativePath="..\YCbCr\YCbCrPixelDefinition.h"
+				RelativePath="..\..\YCbCr\YCbCrPixelDefinition.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Yellow.declare.h"
+				RelativePath="..\..\PixelConvert\Yellow.declare.h"
 				>
 			</File>
 			<File
-				RelativePath="..\PixelConvert\Yellow.h"
+				RelativePath="..\..\PixelConvert\Yellow.h"
 				>
 			</File>
 			<File
-				RelativePath="..\CMY\YellowPixelDefinition.h"
+				RelativePath="..\..\CMY\YellowPixelDefinition.h"
 				>
 			</File>
 		</Filter>
@@ -560,7 +560,7 @@
 			Filter="*.cpp"
 			>
 			<File
-				RelativePath="..\Image\src\Image.cpp"
+				RelativePath="..\..\Image\src\Image.cpp"
 				>
 				<FileConfiguration
 					Name="Debug|Win32"
@@ -588,15 +588,15 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath="..\Image\src\ImageFormat.cpp"
+				RelativePath="..\..\Image\src\ImageFormat.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\Image\src\ImageProxy.cpp"
+				RelativePath="..\..\Image\src\ImageProxy.cpp"
 				>
 			</File>
 			<File
-				RelativePath="..\Algo\Scaling.cpp"
+				RelativePath="..\..\Algo\Scaling.cpp"
 				>
 				<FileConfiguration
 					Name="Debug|Win32"
@@ -626,7 +626,7 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath="..\Algo\Scaling.h"
+				RelativePath="..\..\Algo\Scaling.h"
 				>
 			</File>
 		</Filter>

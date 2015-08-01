@@ -4,3 +4,9 @@
 [submodule "libs/Enseed/Generic/Base"]
 	path = libs/Enseed/Generic/Base
 	url = https://github.com/Enseed/GenericBase.git
+[submodule "libs/Enseed/Generic/Geometry"]
+	path = libs/Enseed/Generic/Geometry
+	url = https://github.com/Enseed/GenericGeometry.git
+[submodule "libs/Enseed/Generic/Math"]
+	path = libs/Enseed/Generic/Math
+	url = https://github.com/Enseed/GenericMath.git

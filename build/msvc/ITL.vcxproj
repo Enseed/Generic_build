@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectName>ITL</ProjectName>
     <ProjectGuid>{4636C67A-DB49-465E-B71E-CC577756216C}</ProjectGuid>
-    <RootNamespace>ITL.dll</RootNamespace>
+    <RootNamespace>ITL</RootNamespace>
     <Keyword>Win32Proj</Keyword>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -194,12 +194,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="libITL.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="ITL.lib.vcxproj">
+    <ProjectReference Include="libITL.vcxproj">
       <Project>{d820ce6a-5205-4771-a126-4fb92800690a}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
