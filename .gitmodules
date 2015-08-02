@@ -31,6 +31,3 @@
 [submodule "Geometry"]
 	path = Geometry
 	url = https://github.com/Enseed/GenericGeometry.git
-[submodule "libs/Enseed/ITL"]
-	path = libs/Enseed/ITL
-	url = https://github.com/Enseed/ITL.git
