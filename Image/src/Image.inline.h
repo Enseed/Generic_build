@@ -24,7 +24,7 @@
 #include "../Image.h"
 #include "ImageProxy.h"
 
-#include <Enseed/Generic/Devel/Debug.h>
+#include <Generic/Devel/Debug.h>
 #include "../../PixMap/PixRowRef.h"
 #include "ImageFormatSwitch.h"
 namespace ITL {
