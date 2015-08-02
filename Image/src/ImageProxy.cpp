@@ -22,7 +22,7 @@
 
 #include "../Image.h" // FIXME
 
-#include <Enseed/Generic/Devel/Debug.h>
+#include <Generic/Devel/Debug.h>
 #include "ImageFormatMapping.h"
 #include "ImageFormatSwitch.h"
 
