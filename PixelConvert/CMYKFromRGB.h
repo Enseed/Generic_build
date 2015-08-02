@@ -23,8 +23,8 @@
 
 #include "../Storage/ColorSpace.h"
 #include "../Storage/ComponentModel.h"
-#include <Enseed/Generic/Base/Base.h>
-#include <Enseed/Generic/Math/Float.h>
+#include <Generic/Base/Base.h>
+#include <Generic/Math/Float.h>
 #include "../CMY/CMYKPixel.h"
 #include "../CMY/CMYPixel.h"
 
