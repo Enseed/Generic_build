@@ -145,7 +145,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Generic.lib.vcxproj">
+    <ProjectReference Include="libGeneric.vcxproj">
       <Project>{6bba54ce-bb78-4bfd-affe-230919ab8e92}</Project>
       <UseLibraryDependencyInputs>true</UseLibraryDependencyInputs>
     </ProjectReference>
