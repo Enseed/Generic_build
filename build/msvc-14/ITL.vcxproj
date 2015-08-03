@@ -91,51 +91,51 @@
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="Platform Win32.props" />
-    <Import Project="Profile Release.props" />
-    <Import Project="ITL.props" />
+    <Import Project="props/ITL.props" />
+    <Import Project="props/Platform Win32.props" />
+    <Import Project="props/Profile Release.props" />
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release Static|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="Platform Win32.props" />
-    <Import Project="Profile Release.props" />
-    <Import Project="ITL.props" />
+    <Import Project="props/ITL.props" />
+    <Import Project="props/Platform Win32.props" />
+    <Import Project="props/Profile Release.props" />
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="Platform x64.props" />
-    <Import Project="Profile Release.props" />
-    <Import Project="ITL.props" />
+    <Import Project="props/ITL.props" />
+    <Import Project="props/Platform x64.props" />
+    <Import Project="props/Profile Release.props" />
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release Static|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="Platform x64.props" />
-    <Import Project="Profile Release.props" />
-    <Import Project="ITL.props" />
+    <Import Project="props/ITL.props" />
+    <Import Project="props/Platform x64.props" />
+    <Import Project="props/Profile Release.props" />
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="Platform Win32.props" />
-    <Import Project="Profile Debug.props" />
-    <Import Project="ITL.props" />
+    <Import Project="props/ITL.props" />
+    <Import Project="props/Platform Win32.props" />
+    <Import Project="props/Profile Debug.props" />
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug Static|Win32'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="Platform Win32.props" />
-    <Import Project="Profile Debug.props" />
-    <Import Project="ITL.props" />
+    <Import Project="props/ITL.props" />
+    <Import Project="props/Platform Win32.props" />
+    <Import Project="props/Profile Debug.props" />
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="Platform x64.props" />
-    <Import Project="Profile Debug.props" />
-    <Import Project="ITL.props" />
+    <Import Project="props/ITL.props" />
+    <Import Project="props/Platform x64.props" />
+    <Import Project="props/Profile Debug.props" />
   </ImportGroup>
   <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug Static|x64'" Label="PropertySheets">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
-    <Import Project="Platform x64.props" />
-    <Import Project="Profile Debug.props" />
-    <Import Project="ITL.props" />
+    <Import Project="props/ITL.props" />
+    <Import Project="props/Platform x64.props" />
+    <Import Project="props/Profile Debug.props" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
