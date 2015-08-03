@@ -246,7 +246,6 @@
     <ClInclude Include="..\..\CMY\MagentaPixelDefinition.h" />
     <ClInclude Include="..\..\CMY\YellowPixelDefinition.h" />
     <ClInclude Include="..\..\Image\Image.h" />
-    <ClInclude Include="..\..\Image\Image.inline.h" />
     <ClInclude Include="..\..\PixelBase.h" />
     <ClInclude Include="..\..\PixelConvert\Alpha.declare.h" />
     <ClInclude Include="..\..\PixelConvert\Alpha.h" />
@@ -299,7 +298,6 @@
     <ClInclude Include="..\..\RGB\RedPixelDefinition.h" />
     <ClInclude Include="..\..\RGB\RGBPixel.h" />
     <ClInclude Include="..\..\RGB\RGBPixelDefinition.h" />
-    <ClInclude Include="..\..\RGB\RGBPixelRefDefinition.h" />
     <ClInclude Include="..\..\src\PixMapOld.h" />
     <ClInclude Include="..\..\Storage\ColorSpace.h" />
     <ClInclude Include="..\..\Storage\ComponentArray.h" />
