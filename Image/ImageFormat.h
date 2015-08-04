@@ -25,7 +25,7 @@
 // CLASS Image
 //==============================================================================
 
-#ifdef WIN32
+#ifdef _WIN32
 #ifdef ITL_EXPORTS
 #define ITL_DLL_EXPORT __declspec(dllexport)
 #else
