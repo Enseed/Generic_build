@@ -1,0 +1,33 @@
+[submodule "CountPtr"]
+	path = CountPtr
+	url = https://github.com/Enseed/GenericCountPtr.git
+[submodule "Strings"]
+	path = Strings
+	url = https://github.com/Enseed/GenericStrings.git
+[submodule "Devel"]
+	path = Devel
+	url = https://github.com/Enseed/GenericDevel.git
+[submodule "States"]
+	path = States
+	url = https://github.com/Enseed/GenericStates.git
+[submodule "Imaging"]
+	path = Imaging
+	url = https://github.com/Enseed/GenericImaging.git
+[submodule "Base"]
+	path = Base
+	url = https://github.com/Enseed/GenericBase.git
+[submodule "AutoPtr"]
+	path = AutoPtr
+	url = https://github.com/Enseed/GenericAutoPtr.git
+[submodule "Atomic"]
+	path = Atomic
+	url = https://github.com/Enseed/GenericAtomic.git
+[submodule "Time"]
+	path = Time
+	url = https://github.com/Enseed/GenericTime.git
+[submodule "Math"]
+	path = Math
+	url = https://github.com/Enseed/GenericMath.git
+[submodule "Geometry"]
+	path = Geometry
+	url = https://github.com/Enseed/GenericGeometry.git
